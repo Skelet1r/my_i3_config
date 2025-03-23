@@ -1,0 +1,12 @@
+[font]
+# Font size
+size = 12.0
+
+[font.normal]
+# Fonts
+family = "Monospace"
+style = "Regular"
+
+[window]
+# Transparency of the terminal
+opacity = 0.8 
