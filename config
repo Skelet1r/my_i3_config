@@ -218,3 +218,6 @@ bindsym $mod+Shift+s exec flameshot full -p ~/Screenshots
 # !!! YOU NEED TO INSTALL FEH !!!  
 exec_always feh --bg-fill /home/skelet1r/Загрузки/1260050.png
 
+# Include picom
+# !!! YOU NEED TO INSTALL PICOM !!!
+exec_always --no-startup-id picom --config /etc/xdg/picom.conf

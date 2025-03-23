@@ -6,7 +6,7 @@
 
 
 <h2>Install packages:</h2>
-<pre><code>sudo pacman -S feh flameshot alacritty neofetch</code></pre>
+<pre><code>sudo pacman -S feh flameshot alacritty neofetch picom</code></pre>
 
 
 <h3>If you don't have alacritty.toml, create it:</h3>
